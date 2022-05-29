@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eM2VYKWGusv5S5XDU9rG3jq6+Hxk/Y8C2EOYcEnLscnuIHfbfz8KyUQ2VzEGFfJIXOZjGYdYtd3v6+wr6MdSGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronan\\Desktop\\Prog\\kafka\\c#\\helloworld\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronan\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
